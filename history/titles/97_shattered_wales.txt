@@ -1,6 +1,6 @@
 d_gwynedd = {
 	867.1.1 = {
-		holder = 0
+		holder = lord_of_maldwyn
 	}
 }
 
@@ -25,36 +25,42 @@ c_cardiganshire = {
 c_merioneth = {
 	867.1.1 = {
 		holder = lord_of_merioneth
+		liege = d_gwynedd
 	}
 }
 
 c_caernarfonshire = {
 	867.1.1 = {
 		holder = lord_of_caernarfonshire
+		liege = d_gwynedd
 	}
 }
 
 c_anglesey = {
 	867.1.1 = {
 		holder = lord_of_anglesey
+		liege = d_gwynedd
 	}
 }
 
 c_denbighshire = {
 	867.1.1 = {
 		holder = lord_of_denbighshire
+		liege = d_gwynedd
 	}
 }
 
 c_maldwyn = {
 	867.1.1 = {
 		holder = lord_of_maldwyn
+		liege = d_gwynedd
 	}
 }
 
 c_sir_faesyfed = {
 	867.1.1 = {
 		holder = lord_of_sir_faesyfed
+		liege = d_gwynedd
 	}
 }
 
