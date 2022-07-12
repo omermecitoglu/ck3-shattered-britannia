@@ -1,0 +1,532 @@
+lord_of_cornwall = {
+	name = "James"
+	religion = catholic
+	culture = cornish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_devon = {
+	name = "Robert"
+	religion = catholic
+	culture = cornish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_somerset = {
+	name = "John"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_dorset = {
+	name = "Michael"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_hampton = {
+	name = "David"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_isle_of_wight = {
+	name = "William"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_sussex = {
+	name = "Richard"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_kent = {
+	name = "Joseph"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_surrey = {
+	name = "Thomas"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_berkshire = {
+	name = "Charles"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_wiltshire = {
+	name = "Christopher"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_gloucestershire = {
+	name = "Daniel"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_oxfordshire = {
+	name = "Matthew"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_buckinghamshire = {
+	name = "Anthony"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_bedford = {
+	name = "Mark"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_hertfordshire = {
+	name = "Donald"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_middlesex = {
+	name = "Steven"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_essex = {
+	name = "Paul"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_suffolk = {
+	name = "Andrew"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_norfolk = {
+	name = "Joshua"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_cambridgeshire = {
+	name = "Kenneth"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_huntingdonshire = {
+	name = "Kevin"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_northamptonshire = {
+	name = "Brian"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_leicestershire = {
+	name = "George"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_warwickshire = {
+	name = "Timothy"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_worcestershire = {
+	name = "Ronald"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_hereford = {
+	name = "Edward"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_shropshire = {
+	name = "Jason"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_staffordshire = {
+	name = "Jeffrey"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_nottinghamshire = {
+	name = "Ryan"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_lincolnshire = {
+	name = "Jacob"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_east_riding = {
+	name = "Gary"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_north_riding = {
+	name = "Nicholas"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_west_riding = {
+	name = "Eric"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_derby = {
+	name = "Jonathan"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_cheshire = {
+	name = "Stephen"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_lancashire = {
+	name = "Larry"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_westmorland = {
+	name = "Justin"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_durham = {
+	name = "Scott"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_northumberland = {
+	name = "Brandon"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_cumberland = {
+	name = "Benjamin"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,89 @@
+d_meath = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+c_dublin = {
+	867.1.1 = {
+		holder = lord_of_dublin
+	}
+}
+
+c_athlone = {
+	867.1.1 = {
+		holder = lord_of_athlone
+	}
+}
+
+c_ulster = {
+	867.1.1 = {
+		holder = lord_of_ulster
+	}
+}
+
+c_oriel = {
+	867.1.1 = {
+		holder = lord_of_oriel
+	}
+}
+
+c_ailech = {
+	867.1.1 = {
+		holder = lord_of_ailech
+	}
+}
+
+c_connacht = {
+	867.1.1 = {
+		holder = lord_of_connacht
+	}
+}
+
+c_mayo = {
+	867.1.1 = {
+		holder = lord_of_mayo
+	}
+}
+
+c_breifne = {
+	867.1.1 = {
+		holder = lord_of_breifne
+	}
+}
+
+c_leinster = {
+	867.1.1 = {
+		holder = lord_of_leinster
+	}
+}
+
+c_ossory = {
+	867.1.1 = {
+		holder = lord_of_ossory
+	}
+}
+
+c_thomond = {
+	867.1.1 = {
+		holder = lord_of_thomond
+	}
+}
+
+c_ennis = {
+	867.1.1 = {
+		holder = lord_of_ennis
+	}
+}
+
+c_ormond = {
+	867.1.1 = {
+		holder = lord_of_ormond
+	}
+}
+
+c_desmond = {
+	867.1.1 = {
+		holder = lord_of_desmond
+	}
+}

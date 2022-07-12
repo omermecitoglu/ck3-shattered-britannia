@@ -1,0 +1,6 @@
+28 = {
+	867.1.1 = {
+		religion = insular_celtic
+		culture = irish
+	}
+}

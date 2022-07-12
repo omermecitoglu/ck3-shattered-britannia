@@ -1,0 +1,337 @@
+lord_of_gowrie = {
+	name = "Terry"
+	religion = catholic
+	culture = pictish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_fife = {
+	name = "Gerald"
+	religion = catholic
+	culture = pictish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_strathearn = {
+	name = "Harold"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_atholl = {
+	name = "Sean"
+	religion = catholic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_angus = {
+	name = "Austin"
+	religion = catholic
+	culture = pictish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_mearns = {
+	name = "Carl"
+	religion = catholic
+	culture = pictish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_isle_of_man = {
+	name = "Arthur"
+	religion = catholic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_galloway = {
+	name = "Lawrence"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_carrick = {
+	name = "Dylan"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_ayrshire = {
+	name = "Jesse"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_annandale = {
+	name = "Jordan"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_lennox = {
+	name = "Bryan"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_inner_hebrides = {
+	name = "Billy"
+	religion = insular_celtic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_outer_hebrides = {
+	name = "Joe"
+	religion = insular_celtic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_argyll = {
+	name = "Bruce"
+	religion = insular_celtic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_lothian = {
+	name = "Gabriel"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_dunbar = {
+	name = "Logan"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_teviotdale = {
+	name = "Albert"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_linlithgowshire = {
+	name = "Willie"
+	religion = catholic
+	culture = anglo_saxon
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_lanarkshire = {
+	name = "Alan"
+	religion = catholic
+	culture = cumbrian
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_moray = {
+	name = "Juan"
+	religion = catholic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_ross = {
+	name = "Wayne"
+	religion = insular_celtic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_buchan = {
+	name = "Elijah"
+	religion = catholic
+	culture = pictish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_sutherland = {
+	name = "Randy"
+	religion = insular_celtic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_caithness = {
+	name = "Roy"
+	religion = insular_celtic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_inverness = {
+	name = "Vincent"
+	religion = insular_celtic
+	culture = gaelic
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}

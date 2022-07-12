@@ -1,0 +1,202 @@
+k_scotland = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_albany = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_the_isles = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_galloway = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_western_isles = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_lothian = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_moray = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+c_gowrie = {
+	867.1.1 = {
+		holder = lord_of_gowrie
+	}
+}
+
+c_fife = {
+	867.1.1 = {
+		holder = lord_of_fife
+	}
+}
+
+c_strathearn = {
+	867.1.1 = {
+		holder = lord_of_strathearn
+	}
+}
+
+c_atholl = {
+	867.1.1 = {
+		holder = lord_of_atholl
+	}
+}
+
+c_angus = {
+	867.1.1 = {
+		holder = lord_of_angus
+	}
+}
+
+c_mearns = {
+	867.1.1 = {
+		holder = lord_of_mearns
+	}
+}
+
+c_isle_of_man = {
+	867.1.1 = {
+		holder = lord_of_isle_of_man
+	}
+}
+
+c_galloway = {
+	867.1.1 = {
+		holder = lord_of_galloway
+		government = feudal_government
+	}
+}
+
+c_carrick = {
+	867.1.1 = {
+		holder = lord_of_carrick
+		government = feudal_government
+	}
+}
+
+c_ayrshire = {
+	867.1.1 = {
+		holder = lord_of_ayrshire
+		government = feudal_government
+	}
+}
+
+c_annandale = {
+	867.1.1 = {
+		holder = lord_of_annandale
+	}
+}
+
+c_lennox = {
+	867.1.1 = {
+		holder = lord_of_lennox
+		government = feudal_government
+	}
+}
+
+c_inner_hebrides = {
+	867.1.1 = {
+		holder = lord_of_inner_hebrides
+	}
+}
+
+c_outer_hebrides = {
+	867.1.1 = {
+		holder = lord_of_outer_hebrides
+	}
+}
+
+c_argyll = {
+	867.1.1 = {
+		holder = lord_of_argyll
+	}
+}
+
+c_lothian = {
+	867.1.1 = {
+		holder = lord_of_lothian
+	}
+}
+
+c_dunbar = {
+	867.1.1 = {
+		holder = lord_of_dunbar
+	}
+}
+
+c_teviotdale = {
+	867.1.1 = {
+		holder = lord_of_teviotdale
+	}
+}
+
+c_linlithgowshire = {
+	867.1.1 = {
+		holder = lord_of_linlithgowshire
+	}
+}
+
+c_lanarkshire = {
+	867.1.1 = {
+		holder = lord_of_lanarkshire
+		government = feudal_government
+	}
+}
+
+c_moray = {
+	867.1.1 = {
+		holder = lord_of_moray
+	}
+}
+
+c_ross = {
+	867.1.1 = {
+		holder = lord_of_ross
+	}
+}
+
+c_buchan = {
+	867.1.1 = {
+		holder = lord_of_buchan
+	}
+}
+
+c_sutherland = {
+	867.1.1 = {
+		holder = lord_of_sutherland
+	}
+}
+
+c_caithness = {
+	867.1.1 = {
+		holder = lord_of_caithness
+	}
+}
+
+c_inverness = {
+	867.1.1 = {
+		holder = lord_of_inverness
+	}
+}

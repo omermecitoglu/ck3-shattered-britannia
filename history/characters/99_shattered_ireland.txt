@@ -1,0 +1,181 @@
+lord_of_dublin = {
+	name = "Adam"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_athlone = {
+	name = "Nathan"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_ulster = {
+	name = "Henry"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_oriel = {
+	name = "Douglas"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_ailech = {
+	name = "Zachary"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_connacht = {
+	name = "Peter"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_mayo = {
+	name = "Kyle"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_breifne = {
+	name = "Ethan"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_leinster = {
+	name = "Walter"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_ossory = {
+	name = "Noah"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_thomond = {
+	name = "Jeremy"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_ennis = {
+	name = "Christian"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_ormond = {
+	name = "Keith"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_desmond = {
+	name = "Roger"
+	religion = insular_celtic
+	culture = irish
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}

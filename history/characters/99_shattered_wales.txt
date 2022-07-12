@@ -1,0 +1,155 @@
+lord_of_cardiganshire = {
+	name = "Samuel"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_merioneth = {
+	name = "Gregory"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_caernarfonshire = {
+	name = "Alexander"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_anglesey = {
+	name = "Frank"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_denbighshire = {
+	name = "Patrick"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_maldwyn = {
+	name = "Raymond"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_sir_faesyfed = {
+	name = "Jack"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_carmarthenshire = {
+	name = "Dennis"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_pembrokeshire = {
+	name = "Jerry"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_glamorgan = {
+	name = "Tyler"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_monmouthshire = {
+	name = "Aaron"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_brecknockshire = {
+	name = "Jose"
+	religion = catholic
+	culture = welsh
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}

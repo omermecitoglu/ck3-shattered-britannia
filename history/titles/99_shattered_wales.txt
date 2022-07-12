@@ -1,0 +1,89 @@
+d_gwynedd = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_powys = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_deheubarth = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+c_cardiganshire = {
+	867.1.1 = {
+		holder = lord_of_cardiganshire
+	}
+}
+
+c_merioneth = {
+	867.1.1 = {
+		holder = lord_of_merioneth
+	}
+}
+
+c_caernarfonshire = {
+	867.1.1 = {
+		holder = lord_of_caernarfonshire
+	}
+}
+
+c_anglesey = {
+	867.1.1 = {
+		holder = lord_of_anglesey
+	}
+}
+
+c_denbighshire = {
+	867.1.1 = {
+		holder = lord_of_denbighshire
+	}
+}
+
+c_maldwyn = {
+	867.1.1 = {
+		holder = lord_of_maldwyn
+	}
+}
+
+c_sir_faesyfed = {
+	867.1.1 = {
+		holder = lord_of_sir_faesyfed
+	}
+}
+
+c_carmarthenshire = {
+	867.1.1 = {
+		holder = lord_of_carmarthenshire
+	}
+}
+
+c_pembrokeshire = {
+	867.1.1 = {
+		holder = lord_of_pembrokeshire
+	}
+}
+
+c_glamorgan = {
+	867.1.1 = {
+		holder = lord_of_glamorgan
+	}
+}
+
+c_monmouthshire = {
+	867.1.1 = {
+		holder = lord_of_monmouthshire
+	}
+}
+
+c_brecknockshire = {
+	867.1.1 = {
+		holder = lord_of_brecknockshire
+	}
+}

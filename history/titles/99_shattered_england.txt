@@ -1,0 +1,282 @@
+d_cornwall = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_somerset = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_norfolk = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_hereford = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_york = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+d_northumberland = {
+	867.1.1 = {
+		holder = 0
+	}
+}
+
+c_cornwall = {
+	867.1.1 = {
+		holder = lord_of_cornwall
+	}
+}
+
+c_devon = {
+	867.1.1 = {
+		holder = lord_of_devon
+	}
+}
+
+c_somerset = {
+	867.1.1 = {
+		holder = lord_of_somerset
+	}
+}
+
+c_dorset = {
+	867.1.1 = {
+		holder = lord_of_dorset
+	}
+}
+
+c_hampton = {
+	867.1.1 = {
+		holder = lord_of_hampton
+	}
+}
+
+c_isle_of_wight = {
+	867.1.1 = {
+		holder = lord_of_isle_of_wight
+	}
+}
+
+c_sussex = {
+	867.1.1 = {
+		holder = lord_of_sussex
+	}
+}
+
+c_kent = {
+	867.1.1 = {
+		holder = lord_of_kent
+	}
+}
+
+c_surrey = {
+	867.1.1 = {
+		holder = lord_of_surrey
+	}
+}
+
+c_berkshire = {
+	867.1.1 = {
+		holder = lord_of_berkshire
+	}
+}
+
+c_wiltshire = {
+	867.1.1 = {
+		holder = lord_of_wiltshire
+	}
+}
+
+c_gloucestershire = {
+	867.1.1 = {
+		holder = lord_of_gloucestershire
+	}
+}
+
+c_oxfordshire = {
+	867.1.1 = {
+		holder = lord_of_oxfordshire
+	}
+}
+
+c_buckinghamshire = {
+	867.1.1 = {
+		holder = lord_of_buckinghamshire
+	}
+}
+
+c_bedford = {
+	867.1.1 = {
+		holder = lord_of_bedford
+	}
+}
+
+c_hertfordshire = {
+	867.1.1 = {
+		holder = lord_of_hertfordshire
+	}
+}
+
+c_middlesex = {
+	867.1.1 = {
+		holder = lord_of_middlesex
+	}
+}
+
+c_essex = {
+	867.1.1 = {
+		holder = lord_of_essex
+	}
+}
+
+c_suffolk = {
+	867.1.1 = {
+		holder = lord_of_suffolk
+	}
+}
+
+c_norfolk = {
+	867.1.1 = {
+		holder = lord_of_norfolk
+	}
+}
+
+c_cambridgeshire = {
+	867.1.1 = {
+		holder = lord_of_cambridgeshire
+	}
+}
+
+c_huntingdonshire = {
+	867.1.1 = {
+		holder = lord_of_huntingdonshire
+	}
+}
+
+c_northamptonshire = {
+	867.1.1 = {
+		holder = lord_of_northamptonshire
+	}
+}
+
+c_leicestershire = {
+	867.1.1 = {
+		holder = lord_of_leicestershire
+	}
+}
+
+c_warwickshire = {
+	867.1.1 = {
+		holder = lord_of_warwickshire
+	}
+}
+
+c_worcestershire = {
+	867.1.1 = {
+		holder = lord_of_worcestershire
+		government = feudal_government
+	}
+}
+
+c_hereford = {
+	867.1.1 = {
+		holder = lord_of_hereford
+	}
+}
+
+c_shropshire = {
+	867.1.1 = {
+		holder = lord_of_shropshire
+	}
+}
+
+c_staffordshire = {
+	867.1.1 = {
+		holder = lord_of_staffordshire
+	}
+}
+
+c_nottinghamshire = {
+	867.1.1 = {
+		holder = lord_of_nottinghamshire
+	}
+}
+
+c_lincolnshire = {
+	867.1.1 = {
+		holder = lord_of_lincolnshire
+	}
+}
+
+c_east_riding = {
+	867.1.1 = {
+		holder = lord_of_east_riding
+	}
+}
+
+c_north_riding = {
+	867.1.1 = {
+		holder = lord_of_north_riding
+	}
+}
+
+c_west_riding = {
+	867.1.1 = {
+		holder = lord_of_west_riding
+	}
+}
+
+c_derby = {
+	867.1.1 = {
+		holder = lord_of_derby
+	}
+}
+
+c_cheshire = {
+	867.1.1 = {
+		holder = lord_of_cheshire
+	}
+}
+
+c_lancashire = {
+	867.1.1 = {
+		holder = lord_of_lancashire
+	}
+}
+
+c_westmorland = {
+	867.1.1 = {
+		holder = lord_of_westmorland
+	}
+}
+
+c_durham = {
+	867.1.1 = {
+		holder = lord_of_durham
+	}
+}
+
+c_northumberland = {
+	867.1.1 = {
+		holder = lord_of_northumberland
+	}
+}
+
+c_cumberland = {
+	867.1.1 = {
+		holder = lord_of_cumberland
+	}
+}
