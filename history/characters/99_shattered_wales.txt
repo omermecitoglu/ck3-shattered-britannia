@@ -1,5 +1,5 @@
 lord_of_cardiganshire = {
-	name = "Samuel"
+	name = "Aldwr"
 	religion = catholic
 	culture = welsh
 
@@ -12,7 +12,7 @@ lord_of_cardiganshire = {
 }
 
 lord_of_merioneth = {
-	name = "Gregory"
+	name = "Berthwallt"
 	religion = catholic
 	culture = welsh
 
@@ -25,7 +25,7 @@ lord_of_merioneth = {
 }
 
 lord_of_caernarfonshire = {
-	name = "Alexander"
+	name = "Cadfan"
 	religion = catholic
 	culture = welsh
 
@@ -38,7 +38,7 @@ lord_of_caernarfonshire = {
 }
 
 lord_of_anglesey = {
-	name = "Frank"
+	name = "Cynfelyn"
 	religion = catholic
 	culture = welsh
 
@@ -51,7 +51,7 @@ lord_of_anglesey = {
 }
 
 lord_of_denbighshire = {
-	name = "Patrick"
+	name = "Emrys"
 	religion = catholic
 	culture = welsh
 
@@ -64,7 +64,7 @@ lord_of_denbighshire = {
 }
 
 lord_of_maldwyn = {
-	name = "Raymond"
+	name = "Ewyas"
 	religion = catholic
 	culture = welsh
 
@@ -77,7 +77,7 @@ lord_of_maldwyn = {
 }
 
 lord_of_sir_faesyfed = {
-	name = "Jack"
+	name = "Herewallt"
 	religion = catholic
 	culture = welsh
 
@@ -90,7 +90,7 @@ lord_of_sir_faesyfed = {
 }
 
 lord_of_carmarthenshire = {
-	name = "Dennis"
+	name = "Idnerth"
 	religion = catholic
 	culture = welsh
 
@@ -103,7 +103,7 @@ lord_of_carmarthenshire = {
 }
 
 lord_of_pembrokeshire = {
-	name = "Jerry"
+	name = "Morydd"
 	religion = catholic
 	culture = welsh
 
@@ -116,7 +116,7 @@ lord_of_pembrokeshire = {
 }
 
 lord_of_glamorgan = {
-	name = "Tyler"
+	name = "Rhydderch"
 	religion = catholic
 	culture = welsh
 
@@ -129,7 +129,7 @@ lord_of_glamorgan = {
 }
 
 lord_of_monmouthshire = {
-	name = "Aaron"
+	name = "Taliesin"
 	religion = catholic
 	culture = welsh
 
@@ -142,7 +142,7 @@ lord_of_monmouthshire = {
 }
 
 lord_of_brecknockshire = {
-	name = "Jose"
+	name = "Urien"
 	religion = catholic
 	culture = welsh
 

@@ -1,5 +1,5 @@
 lord_of_gowrie = {
-	name = "Terry"
+	name = "Broichan"
 	religion = catholic
 	culture = pictish
 
@@ -12,7 +12,7 @@ lord_of_gowrie = {
 }
 
 lord_of_fife = {
-	name = "Gerald"
+	name = "Caltram"
 	religion = catholic
 	culture = pictish
 
@@ -25,7 +25,7 @@ lord_of_fife = {
 }
 
 lord_of_strathearn = {
-	name = "Harold"
+	name = "Illick"
 	religion = catholic
 	culture = cumbrian
 
@@ -38,7 +38,7 @@ lord_of_strathearn = {
 }
 
 lord_of_atholl = {
-	name = "Sean"
+	name = "Ainftech"
 	religion = catholic
 	culture = gaelic
 
@@ -51,7 +51,7 @@ lord_of_atholl = {
 }
 
 lord_of_angus = {
-	name = "Austin"
+	name = "Garalt"
 	religion = catholic
 	culture = pictish
 
@@ -64,7 +64,7 @@ lord_of_angus = {
 }
 
 lord_of_mearns = {
-	name = "Carl"
+	name = "Paul"
 	religion = catholic
 	culture = pictish
 
@@ -77,7 +77,7 @@ lord_of_mearns = {
 }
 
 lord_of_isle_of_man = {
-	name = "Arthur"
+	name = "CaissE_ne"
 	religion = catholic
 	culture = gaelic
 
@@ -90,7 +90,7 @@ lord_of_isle_of_man = {
 }
 
 lord_of_galloway = {
-	name = "Lawrence"
+	name = "Bledros"
 	religion = catholic
 	culture = cumbrian
 
@@ -103,7 +103,7 @@ lord_of_galloway = {
 }
 
 lord_of_carrick = {
-	name = "Dylan"
+	name = "Guithrit"
 	religion = catholic
 	culture = cumbrian
 
@@ -116,7 +116,7 @@ lord_of_carrick = {
 }
 
 lord_of_ayrshire = {
-	name = "Jesse"
+	name = "Judwal"
 	religion = catholic
 	culture = cumbrian
 
@@ -129,7 +129,7 @@ lord_of_ayrshire = {
 }
 
 lord_of_annandale = {
-	name = "Jordan"
+	name = "Oswallt"
 	religion = catholic
 	culture = cumbrian
 
@@ -142,7 +142,7 @@ lord_of_annandale = {
 }
 
 lord_of_lennox = {
-	name = "Bryan"
+	name = "Petroc"
 	religion = catholic
 	culture = cumbrian
 
@@ -155,7 +155,7 @@ lord_of_lennox = {
 }
 
 lord_of_inner_hebrides = {
-	name = "Billy"
+	name = "Cathnio"
 	religion = insular_celtic
 	culture = gaelic
 
@@ -168,7 +168,7 @@ lord_of_inner_hebrides = {
 }
 
 lord_of_outer_hebrides = {
-	name = "Joe"
+	name = "Dubhghall"
 	religion = insular_celtic
 	culture = gaelic
 
@@ -181,7 +181,7 @@ lord_of_outer_hebrides = {
 }
 
 lord_of_argyll = {
-	name = "Bruce"
+	name = "Finnbarr"
 	religion = insular_celtic
 	culture = gaelic
 
@@ -194,7 +194,7 @@ lord_of_argyll = {
 }
 
 lord_of_lothian = {
-	name = "Gabriel"
+	name = "Leofheah"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -207,7 +207,7 @@ lord_of_lothian = {
 }
 
 lord_of_dunbar = {
-	name = "Logan"
+	name = "Offa"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -220,7 +220,7 @@ lord_of_dunbar = {
 }
 
 lord_of_teviotdale = {
-	name = "Albert"
+	name = "Waltheof"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -233,7 +233,7 @@ lord_of_teviotdale = {
 }
 
 lord_of_linlithgowshire = {
-	name = "Willie"
+	name = "E_thelrE_d"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -246,7 +246,7 @@ lord_of_linlithgowshire = {
 }
 
 lord_of_lanarkshire = {
-	name = "Alan"
+	name = "Riwal"
 	religion = catholic
 	culture = cumbrian
 
@@ -259,7 +259,7 @@ lord_of_lanarkshire = {
 }
 
 lord_of_moray = {
-	name = "Juan"
+	name = "Finnlagh"
 	religion = catholic
 	culture = gaelic
 
@@ -272,7 +272,7 @@ lord_of_moray = {
 }
 
 lord_of_ross = {
-	name = "Wayne"
+	name = "Macbethad"
 	religion = insular_celtic
 	culture = gaelic
 
@@ -285,7 +285,7 @@ lord_of_ross = {
 }
 
 lord_of_buchan = {
-	name = "Elijah"
+	name = "Telurg"
 	religion = catholic
 	culture = pictish
 
@@ -298,7 +298,7 @@ lord_of_buchan = {
 }
 
 lord_of_sutherland = {
-	name = "Randy"
+	name = "RU_adA_n"
 	religion = insular_celtic
 	culture = gaelic
 
@@ -311,7 +311,7 @@ lord_of_sutherland = {
 }
 
 lord_of_caithness = {
-	name = "Roy"
+	name = "TorccA_n"
 	religion = insular_celtic
 	culture = gaelic
 
@@ -324,7 +324,7 @@ lord_of_caithness = {
 }
 
 lord_of_inverness = {
-	name = "Vincent"
+	name = "U_amnachA_n"
 	religion = insular_celtic
 	culture = gaelic
 
