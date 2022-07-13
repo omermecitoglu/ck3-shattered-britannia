@@ -1,5 +1,5 @@
 lord_of_cornwall = {
-	name = "James"
+	name = "Gurguistl"
 	religion = catholic
 	culture = cornish
 
@@ -12,7 +12,7 @@ lord_of_cornwall = {
 }
 
 lord_of_devon = {
-	name = "Robert"
+	name = "Mordaf"
 	religion = catholic
 	culture = cornish
 
@@ -25,7 +25,7 @@ lord_of_devon = {
 }
 
 lord_of_somerset = {
-	name = "John"
+	name = "Beorhthelm"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -38,7 +38,7 @@ lord_of_somerset = {
 }
 
 lord_of_dorset = {
-	name = "Michael"
+	name = "BeorhtmE_r"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -51,7 +51,7 @@ lord_of_dorset = {
 }
 
 lord_of_hampton = {
-	name = "David"
+	name = "Beorhtsige"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -64,7 +64,7 @@ lord_of_hampton = {
 }
 
 lord_of_isle_of_wight = {
-	name = "William"
+	name = "Beornwulf"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -77,7 +77,7 @@ lord_of_isle_of_wight = {
 }
 
 lord_of_sussex = {
-	name = "Richard"
+	name = "Cearl"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -90,7 +90,7 @@ lord_of_sussex = {
 }
 
 lord_of_kent = {
-	name = "Joseph"
+	name = "Cenwulf"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -103,7 +103,7 @@ lord_of_kent = {
 }
 
 lord_of_surrey = {
-	name = "Thomas"
+	name = "Cuthberht"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -116,7 +116,7 @@ lord_of_surrey = {
 }
 
 lord_of_berkshire = {
-	name = "Charles"
+	name = "Cynewulf"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -129,7 +129,7 @@ lord_of_berkshire = {
 }
 
 lord_of_wiltshire = {
-	name = "Christopher"
+	name = "Eadmund"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -142,7 +142,7 @@ lord_of_wiltshire = {
 }
 
 lord_of_gloucestershire = {
-	name = "Daniel"
+	name = "Eadulf"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -155,7 +155,7 @@ lord_of_gloucestershire = {
 }
 
 lord_of_oxfordshire = {
-	name = "Matthew"
+	name = "Eadweard"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -168,7 +168,7 @@ lord_of_oxfordshire = {
 }
 
 lord_of_buckinghamshire = {
-	name = "Anthony"
+	name = "Eadwine"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -181,7 +181,7 @@ lord_of_buckinghamshire = {
 }
 
 lord_of_bedford = {
-	name = "Mark"
+	name = "Eadwulf"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -194,7 +194,7 @@ lord_of_bedford = {
 }
 
 lord_of_hertfordshire = {
-	name = "Donald"
+	name = "Ealdwine"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -207,7 +207,7 @@ lord_of_hertfordshire = {
 }
 
 lord_of_middlesex = {
-	name = "Steven"
+	name = "Ecgberht"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -220,7 +220,7 @@ lord_of_middlesex = {
 }
 
 lord_of_essex = {
-	name = "Paul"
+	name = "Godwine"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -233,7 +233,7 @@ lord_of_essex = {
 }
 
 lord_of_suffolk = {
-	name = "Andrew"
+	name = "Harold"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -246,7 +246,7 @@ lord_of_suffolk = {
 }
 
 lord_of_norfolk = {
-	name = "Joshua"
+	name = "Hereberht"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -259,7 +259,7 @@ lord_of_norfolk = {
 }
 
 lord_of_cambridgeshire = {
-	name = "Kenneth"
+	name = "InwE_r"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -272,7 +272,7 @@ lord_of_cambridgeshire = {
 }
 
 lord_of_huntingdonshire = {
-	name = "Kevin"
+	name = "Leofric"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -285,7 +285,7 @@ lord_of_huntingdonshire = {
 }
 
 lord_of_northamptonshire = {
-	name = "Brian"
+	name = "Morcar"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -298,7 +298,7 @@ lord_of_northamptonshire = {
 }
 
 lord_of_leicestershire = {
-	name = "George"
+	name = "Osmund"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -311,7 +311,7 @@ lord_of_leicestershire = {
 }
 
 lord_of_warwickshire = {
-	name = "Timothy"
+	name = "Osweald"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -324,7 +324,7 @@ lord_of_warwickshire = {
 }
 
 lord_of_worcestershire = {
-	name = "Ronald"
+	name = "Sigeberht"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -337,7 +337,7 @@ lord_of_worcestershire = {
 }
 
 lord_of_hereford = {
-	name = "Edward"
+	name = "Swithelm"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -350,7 +350,7 @@ lord_of_hereford = {
 }
 
 lord_of_shropshire = {
-	name = "Jason"
+	name = "Thurcytel"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -363,7 +363,7 @@ lord_of_shropshire = {
 }
 
 lord_of_staffordshire = {
-	name = "Jeffrey"
+	name = "UhtrE_d"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -376,7 +376,7 @@ lord_of_staffordshire = {
 }
 
 lord_of_nottinghamshire = {
-	name = "Ryan"
+	name = "Waltheof"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -389,7 +389,7 @@ lord_of_nottinghamshire = {
 }
 
 lord_of_lincolnshire = {
-	name = "Jacob"
+	name = "Wulfgar"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -402,7 +402,7 @@ lord_of_lincolnshire = {
 }
 
 lord_of_east_riding = {
-	name = "Gary"
+	name = "Wulfnoth"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -415,7 +415,7 @@ lord_of_east_riding = {
 }
 
 lord_of_north_riding = {
-	name = "Nicholas"
+	name = "E_lfric"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -428,7 +428,7 @@ lord_of_north_riding = {
 }
 
 lord_of_west_riding = {
-	name = "Eric"
+	name = "E_lfwald"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -441,7 +441,7 @@ lord_of_west_riding = {
 }
 
 lord_of_derby = {
-	name = "Jonathan"
+	name = "E_thelhere"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -454,7 +454,7 @@ lord_of_derby = {
 }
 
 lord_of_cheshire = {
-	name = "Stephen"
+	name = "E_thelric"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -467,7 +467,7 @@ lord_of_cheshire = {
 }
 
 lord_of_lancashire = {
-	name = "Larry"
+	name = "E_thelstan"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -480,7 +480,7 @@ lord_of_lancashire = {
 }
 
 lord_of_westmorland = {
-	name = "Justin"
+	name = "E_thelwold"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -493,7 +493,7 @@ lord_of_westmorland = {
 }
 
 lord_of_durham = {
-	name = "Scott"
+	name = "E_thelwulf"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -506,7 +506,7 @@ lord_of_durham = {
 }
 
 lord_of_northumberland = {
-	name = "Brandon"
+	name = "RE_dwald"
 	religion = catholic
 	culture = anglo_saxon
 
@@ -519,7 +519,7 @@ lord_of_northumberland = {
 }
 
 lord_of_cumberland = {
-	name = "Benjamin"
+	name = "Dafydd"
 	religion = catholic
 	culture = cumbrian
 

@@ -1,5 +1,5 @@
 lord_of_dublin = {
-	name = "Adam"
+	name = "Ainftech"
 	religion = insular_celtic
 	culture = irish
 
@@ -12,7 +12,7 @@ lord_of_dublin = {
 }
 
 lord_of_athlone = {
-	name = "Nathan"
+	name = "Berrach"
 	religion = insular_celtic
 	culture = irish
 
@@ -25,7 +25,7 @@ lord_of_athlone = {
 }
 
 lord_of_ulster = {
-	name = "Henry"
+	name = "CennlachA_n"
 	religion = insular_celtic
 	culture = irish
 
@@ -38,7 +38,7 @@ lord_of_ulster = {
 }
 
 lord_of_oriel = {
-	name = "Douglas"
+	name = "CillE_ne"
 	religion = insular_celtic
 	culture = irish
 
@@ -51,7 +51,7 @@ lord_of_oriel = {
 }
 
 lord_of_ailech = {
-	name = "Zachary"
+	name = "Cuircthe"
 	religion = insular_celtic
 	culture = irish
 
@@ -64,7 +64,7 @@ lord_of_ailech = {
 }
 
 lord_of_connacht = {
-	name = "Peter"
+	name = "Echmarcach"
 	religion = insular_celtic
 	culture = irish
 
@@ -77,7 +77,7 @@ lord_of_connacht = {
 }
 
 lord_of_mayo = {
-	name = "Kyle"
+	name = "FlaithemA_n"
 	religion = insular_celtic
 	culture = irish
 
@@ -90,7 +90,7 @@ lord_of_mayo = {
 }
 
 lord_of_breifne = {
-	name = "Ethan"
+	name = "FI_nsnechta"
 	religion = insular_celtic
 	culture = irish
 
@@ -103,7 +103,7 @@ lord_of_breifne = {
 }
 
 lord_of_leinster = {
-	name = "Walter"
+	name = "Gofraid"
 	religion = insular_celtic
 	culture = irish
 
@@ -116,7 +116,7 @@ lord_of_leinster = {
 }
 
 lord_of_ossory = {
-	name = "Noah"
+	name = "Imchad"
 	religion = insular_celtic
 	culture = irish
 
@@ -129,7 +129,7 @@ lord_of_ossory = {
 }
 
 lord_of_thomond = {
-	name = "Jeremy"
+	name = "LO_chI_ne"
 	religion = insular_celtic
 	culture = irish
 
@@ -142,7 +142,7 @@ lord_of_thomond = {
 }
 
 lord_of_ennis = {
-	name = "Christian"
+	name = "Nadarchu"
 	religion = insular_celtic
 	culture = irish
 
@@ -155,7 +155,7 @@ lord_of_ennis = {
 }
 
 lord_of_ormond = {
-	name = "Keith"
+	name = "SA_erbrethach"
 	religion = insular_celtic
 	culture = irish
 
@@ -168,7 +168,7 @@ lord_of_ormond = {
 }
 
 lord_of_desmond = {
-	name = "Roger"
+	name = "Tigernach"
 	religion = insular_celtic
 	culture = irish
 
