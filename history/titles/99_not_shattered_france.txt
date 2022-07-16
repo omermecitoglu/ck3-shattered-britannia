@@ -1,0 +1,12 @@
+c_french_leon = {
+	867.1.1 = {
+		holder = 163105
+	}
+}
+
+c_montaigu = {
+	867.1.1 = {
+		holder = 144964	#Geoffrey de Thouars
+		liege = k_france
+	}
+}
