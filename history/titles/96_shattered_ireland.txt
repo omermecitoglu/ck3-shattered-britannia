@@ -7,6 +7,7 @@ d_meath = {
 c_dublin = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_dublin
 	}
 }
@@ -14,6 +15,7 @@ c_dublin = {
 c_athlone = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_athlone
 	}
 }
@@ -21,6 +23,7 @@ c_athlone = {
 c_ulster = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_ulster
 	}
 }
@@ -28,6 +31,7 @@ c_ulster = {
 c_oriel = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_oriel
 	}
 }
@@ -35,6 +39,7 @@ c_oriel = {
 c_ailech = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_ailech
 	}
 }
@@ -42,6 +47,7 @@ c_ailech = {
 c_connacht = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_connacht
 	}
 }
@@ -49,6 +55,7 @@ c_connacht = {
 c_mayo = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_mayo
 	}
 }
@@ -56,6 +63,7 @@ c_mayo = {
 c_breifne = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_breifne
 	}
 }
@@ -63,6 +71,7 @@ c_breifne = {
 c_leinster = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_leinster
 	}
 }
@@ -70,6 +79,7 @@ c_leinster = {
 c_ossory = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_ossory
 	}
 }
@@ -77,6 +87,7 @@ c_ossory = {
 c_thomond = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_thomond
 	}
 }
@@ -84,6 +95,7 @@ c_thomond = {
 c_ennis = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_ennis
 	}
 }
@@ -91,6 +103,7 @@ c_ennis = {
 c_ormond = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_ormond
 	}
 }
@@ -98,6 +111,7 @@ c_ormond = {
 c_desmond = {
 	867.1.1 = {
 		change_development_level = 5
+		government = feudal_government
 		holder = lord_of_desmond
 	}
 }
