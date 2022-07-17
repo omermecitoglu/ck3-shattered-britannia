@@ -79,7 +79,7 @@ lord_of_mearns = {
 lord_of_isle_of_man = {
 	name = "CaissE_ne"
 	religion = catholic
-	culture = gaelic
+	culture = pirates
 
 	847.1.1 = {
 		birth = yes
@@ -196,7 +196,7 @@ lord_of_argyll = {
 lord_of_lothian = {
 	name = "Leofheah"
 	religion = catholic
-	culture = anglo_saxon
+	culture = scottish
 
 	847.1.1 = {
 		birth = yes
@@ -209,7 +209,7 @@ lord_of_lothian = {
 lord_of_dunbar = {
 	name = "Offa"
 	religion = catholic
-	culture = anglo_saxon
+	culture = scottish
 
 	847.1.1 = {
 		birth = yes
@@ -222,7 +222,7 @@ lord_of_dunbar = {
 lord_of_teviotdale = {
 	name = "Waltheof"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes
@@ -235,7 +235,7 @@ lord_of_teviotdale = {
 lord_of_linlithgowshire = {
 	name = "E_thelrE_d"
 	religion = catholic
-	culture = anglo_saxon
+	culture = scottish
 
 	847.1.1 = {
 		birth = yes

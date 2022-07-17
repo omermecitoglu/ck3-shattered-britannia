@@ -235,7 +235,7 @@ lord_of_essex = {
 lord_of_suffolk = {
 	name = "Harold"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -248,7 +248,7 @@ lord_of_suffolk = {
 lord_of_norfolk = {
 	name = "Hereberht"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -261,7 +261,7 @@ lord_of_norfolk = {
 lord_of_cambridgeshire = {
 	name = "InwE_r"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -274,7 +274,7 @@ lord_of_cambridgeshire = {
 lord_of_huntingdonshire = {
 	name = "Leofric"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -287,7 +287,7 @@ lord_of_huntingdonshire = {
 lord_of_northamptonshire = {
 	name = "Morcar"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -300,7 +300,7 @@ lord_of_northamptonshire = {
 lord_of_leicestershire = {
 	name = "Osmund"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -313,7 +313,7 @@ lord_of_leicestershire = {
 lord_of_warwickshire = {
 	name = "Osweald"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -326,7 +326,7 @@ lord_of_warwickshire = {
 lord_of_worcestershire = {
 	name = "Sigeberht"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -339,7 +339,7 @@ lord_of_worcestershire = {
 lord_of_hereford = {
 	name = "Swithelm"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -352,7 +352,7 @@ lord_of_hereford = {
 lord_of_shropshire = {
 	name = "Thurcytel"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -365,7 +365,7 @@ lord_of_shropshire = {
 lord_of_staffordshire = {
 	name = "UhtrE_d"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -378,7 +378,7 @@ lord_of_staffordshire = {
 lord_of_nottinghamshire = {
 	name = "Waltheof"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -391,7 +391,7 @@ lord_of_nottinghamshire = {
 lord_of_lincolnshire = {
 	name = "Wulfgar"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -404,7 +404,7 @@ lord_of_lincolnshire = {
 lord_of_east_riding = {
 	name = "Wulfnoth"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes
@@ -417,7 +417,7 @@ lord_of_east_riding = {
 lord_of_north_riding = {
 	name = "E_lfric"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes
@@ -430,7 +430,7 @@ lord_of_north_riding = {
 lord_of_west_riding = {
 	name = "E_lfwald"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes
@@ -443,7 +443,7 @@ lord_of_west_riding = {
 lord_of_derby = {
 	name = "E_thelhere"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -456,7 +456,7 @@ lord_of_derby = {
 lord_of_cheshire = {
 	name = "E_thelric"
 	religion = catholic
-	culture = anglo_saxon
+	culture = mercian
 
 	847.1.1 = {
 		birth = yes
@@ -469,7 +469,7 @@ lord_of_cheshire = {
 lord_of_lancashire = {
 	name = "E_thelstan"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes
@@ -482,7 +482,7 @@ lord_of_lancashire = {
 lord_of_westmorland = {
 	name = "E_thelwold"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes
@@ -495,7 +495,7 @@ lord_of_westmorland = {
 lord_of_durham = {
 	name = "E_thelwulf"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes
@@ -508,7 +508,7 @@ lord_of_durham = {
 lord_of_northumberland = {
 	name = "RE_dwald"
 	religion = catholic
-	culture = anglo_saxon
+	culture = northumbrian
 
 	847.1.1 = {
 		birth = yes

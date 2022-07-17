@@ -1,0 +1,109 @@
+1632 = {
+	religion = catholic
+	culture = mercian
+}
+
+1624 = {
+	religion = catholic
+	culture = mercian
+}
+
+1603 = {
+	religion = catholic
+	culture = mercian
+}
+
+1600 = {
+	religion = catholic
+	culture = mercian
+}
+
+1541 = {
+	religion = catholic
+	culture = mercian
+}
+
+1615 = {
+	religion = catholic
+	culture = mercian
+}
+
+1646 = {
+	religion = catholic
+	culture = mercian
+}
+
+1627 = {
+	religion = catholic
+	culture = mercian
+}
+
+1618 = {
+	religion = catholic
+	culture = mercian
+}
+
+1643 = {
+	religion = catholic
+	culture = mercian
+}
+
+1621 = {
+	religion = catholic
+	culture = mercian
+}
+
+1583 = {
+	religion = catholic
+	culture = mercian
+}
+
+1534 = {
+	religion = catholic
+	culture = mercian
+}
+
+1518 = {
+	religion = catholic
+	culture = mercian
+}
+
+1522 = {
+	religion = catholic
+	culture = mercian
+}
+
+1591 = {
+	religion = catholic
+	culture = northumbrian
+}
+
+1588 = {
+	religion = catholic
+	culture = northumbrian
+}
+
+1595 = {
+	religion = catholic
+	culture = northumbrian
+}
+
+1639 = {
+	religion = catholic
+	culture = northumbrian
+}
+
+1637 = {
+	religion = catholic
+	culture = northumbrian
+}
+
+1606 = {
+	religion = catholic
+	culture = northumbrian
+}
+
+1609 = {
+	religion = catholic
+	culture = northumbrian
+}

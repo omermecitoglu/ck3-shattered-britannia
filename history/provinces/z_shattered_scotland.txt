@@ -1,0 +1,24 @@
+1698 = {
+	religion = catholic
+	culture = pirates
+}
+
+1677 = {
+	religion = catholic
+	culture = northumbrian
+}
+
+1676 = {
+	religion = catholic
+	culture = scottish
+}
+
+1727 = {
+	religion = catholic
+	culture = scottish
+}
+
+1731 = {
+	religion = catholic
+	culture = scottish
+}
