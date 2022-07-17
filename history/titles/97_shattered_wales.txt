@@ -18,12 +18,14 @@ d_deheubarth = {
 
 c_cardiganshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_cardiganshire
 	}
 }
 
 c_merioneth = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_merioneth
 		liege = d_gwynedd
 	}
@@ -31,6 +33,7 @@ c_merioneth = {
 
 c_caernarfonshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_caernarfonshire
 		liege = d_gwynedd
 	}
@@ -38,6 +41,7 @@ c_caernarfonshire = {
 
 c_anglesey = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_anglesey
 		liege = d_gwynedd
 	}
@@ -45,6 +49,7 @@ c_anglesey = {
 
 c_denbighshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_denbighshire
 		liege = d_gwynedd
 	}
@@ -52,6 +57,7 @@ c_denbighshire = {
 
 c_maldwyn = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_maldwyn
 		liege = d_gwynedd
 	}
@@ -59,6 +65,7 @@ c_maldwyn = {
 
 c_sir_faesyfed = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_sir_faesyfed
 		liege = d_gwynedd
 	}
@@ -66,30 +73,35 @@ c_sir_faesyfed = {
 
 c_carmarthenshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_carmarthenshire
 	}
 }
 
 c_pembrokeshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_pembrokeshire
 	}
 }
 
 c_glamorgan = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_glamorgan
 	}
 }
 
 c_monmouthshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_monmouthshire
 	}
 }
 
 c_brecknockshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_brecknockshire
 	}
 }

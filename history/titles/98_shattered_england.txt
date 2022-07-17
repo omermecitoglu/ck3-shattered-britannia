@@ -36,6 +36,7 @@ d_northumberland = {
 
 c_cornwall = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_cornwall
 		liege = d_cornwall
 	}
@@ -43,6 +44,7 @@ c_cornwall = {
 
 c_devon = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_devon
 		liege = d_cornwall
 	}
@@ -50,6 +52,7 @@ c_devon = {
 
 c_somerset = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_somerset
 		liege = d_somerset
 	}
@@ -57,6 +60,7 @@ c_somerset = {
 
 c_dorset = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_dorset
 		liege = d_somerset
 	}
@@ -64,6 +68,7 @@ c_dorset = {
 
 c_hampton = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_hampton
 		liege = d_somerset
 	}
@@ -71,6 +76,7 @@ c_hampton = {
 
 c_isle_of_wight = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_isle_of_wight
 		liege = d_somerset
 	}
@@ -78,6 +84,7 @@ c_isle_of_wight = {
 
 c_sussex = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_sussex
 		liege = d_somerset
 	}
@@ -85,6 +92,7 @@ c_sussex = {
 
 c_kent = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_kent
 		liege = d_somerset
 	}
@@ -92,6 +100,7 @@ c_kent = {
 
 c_surrey = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_surrey
 		liege = d_somerset
 	}
@@ -99,6 +108,7 @@ c_surrey = {
 
 c_berkshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_berkshire
 		liege = d_somerset
 	}
@@ -106,6 +116,7 @@ c_berkshire = {
 
 c_wiltshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_wiltshire
 		liege = d_somerset
 	}
@@ -113,6 +124,7 @@ c_wiltshire = {
 
 c_gloucestershire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_gloucestershire
 		liege = d_somerset
 	}
@@ -120,6 +132,7 @@ c_gloucestershire = {
 
 c_oxfordshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_oxfordshire
 		liege = d_somerset
 	}
@@ -127,6 +140,7 @@ c_oxfordshire = {
 
 c_buckinghamshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_buckinghamshire
 		liege = d_somerset
 	}
@@ -134,6 +148,7 @@ c_buckinghamshire = {
 
 c_bedford = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_bedford
 		liege = d_somerset
 	}
@@ -141,6 +156,7 @@ c_bedford = {
 
 c_hertfordshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_hertfordshire
 		liege = d_somerset
 	}
@@ -148,6 +164,7 @@ c_hertfordshire = {
 
 c_middlesex = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_middlesex
 		liege = d_somerset
 	}
@@ -155,6 +172,7 @@ c_middlesex = {
 
 c_essex = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_essex
 		liege = d_somerset
 	}
@@ -162,6 +180,7 @@ c_essex = {
 
 c_suffolk = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_suffolk
 		liege = d_hereford
 	}
@@ -169,6 +188,7 @@ c_suffolk = {
 
 c_norfolk = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_norfolk
 		liege = d_hereford
 	}
@@ -176,6 +196,7 @@ c_norfolk = {
 
 c_cambridgeshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_cambridgeshire
 		liege = d_hereford
 	}
@@ -183,6 +204,7 @@ c_cambridgeshire = {
 
 c_huntingdonshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_huntingdonshire
 		liege = d_hereford
 	}
@@ -190,6 +212,7 @@ c_huntingdonshire = {
 
 c_northamptonshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_northamptonshire
 		liege = d_hereford
 	}
@@ -197,6 +220,7 @@ c_northamptonshire = {
 
 c_leicestershire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_leicestershire
 		liege = d_hereford
 	}
@@ -204,6 +228,7 @@ c_leicestershire = {
 
 c_warwickshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_warwickshire
 		liege = d_hereford
 	}
@@ -211,6 +236,7 @@ c_warwickshire = {
 
 c_worcestershire = {
 	867.1.1 = {
+		change_development_level = 5
 		government = feudal_government
 		holder = lord_of_worcestershire
 		liege = d_hereford
@@ -219,6 +245,7 @@ c_worcestershire = {
 
 c_hereford = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_hereford
 		liege = d_hereford
 	}
@@ -226,6 +253,7 @@ c_hereford = {
 
 c_shropshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_shropshire
 		liege = d_gwynedd
 	}
@@ -233,6 +261,7 @@ c_shropshire = {
 
 c_staffordshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_staffordshire
 		liege = d_hereford
 	}
@@ -240,6 +269,7 @@ c_staffordshire = {
 
 c_nottinghamshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_nottinghamshire
 		liege = d_hereford
 	}
@@ -247,6 +277,7 @@ c_nottinghamshire = {
 
 c_lincolnshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_lincolnshire
 		liege = d_hereford
 	}
@@ -254,6 +285,7 @@ c_lincolnshire = {
 
 c_east_riding = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_east_riding
 		liege = d_northumberland
 	}
@@ -261,6 +293,7 @@ c_east_riding = {
 
 c_north_riding = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_north_riding
 		liege = d_northumberland
 	}
@@ -268,6 +301,7 @@ c_north_riding = {
 
 c_west_riding = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_west_riding
 		liege = d_northumberland
 	}
@@ -275,6 +309,7 @@ c_west_riding = {
 
 c_derby = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_derby
 		liege = d_hereford
 	}
@@ -282,6 +317,7 @@ c_derby = {
 
 c_cheshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_cheshire
 		liege = d_hereford
 	}
@@ -289,6 +325,7 @@ c_cheshire = {
 
 c_lancashire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_lancashire
 		liege = d_northumberland
 	}
@@ -296,6 +333,7 @@ c_lancashire = {
 
 c_westmorland = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_westmorland
 		liege = d_northumberland
 	}
@@ -303,6 +341,7 @@ c_westmorland = {
 
 c_durham = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_durham
 		liege = d_northumberland
 	}
@@ -310,6 +349,7 @@ c_durham = {
 
 c_northumberland = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_northumberland
 		liege = d_northumberland
 	}
@@ -317,6 +357,7 @@ c_northumberland = {
 
 c_cumberland = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_cumberland
 		liege = d_northumberland
 	}

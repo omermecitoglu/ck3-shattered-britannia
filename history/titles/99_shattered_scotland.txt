@@ -42,6 +42,7 @@ d_moray = {
 
 c_gowrie = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_gowrie
 		liege = k_scotland
 	}
@@ -49,6 +50,7 @@ c_gowrie = {
 
 c_fife = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_fife
 		liege = k_scotland
 	}
@@ -56,6 +58,7 @@ c_fife = {
 
 c_strathearn = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_strathearn
 		liege = k_scotland
 	}
@@ -63,6 +66,7 @@ c_strathearn = {
 
 c_atholl = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_atholl
 		liege = k_scotland
 	}
@@ -70,6 +74,7 @@ c_atholl = {
 
 c_angus = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_angus
 		liege = k_scotland
 	}
@@ -77,6 +82,7 @@ c_angus = {
 
 c_mearns = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_mearns
 		liege = k_scotland
 	}
@@ -84,6 +90,7 @@ c_mearns = {
 
 c_isle_of_man = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_isle_of_man
 		liege = d_galloway
 	}
@@ -91,6 +98,7 @@ c_isle_of_man = {
 
 c_galloway = {
 	867.1.1 = {
+		change_development_level = 5
 		government = feudal_government
 		holder = lord_of_galloway
 		liege = d_galloway
@@ -99,6 +107,7 @@ c_galloway = {
 
 c_carrick = {
 	867.1.1 = {
+		change_development_level = 5
 		government = feudal_government
 		holder = lord_of_carrick
 		liege = d_galloway
@@ -107,6 +116,7 @@ c_carrick = {
 
 c_ayrshire = {
 	867.1.1 = {
+		change_development_level = 5
 		government = feudal_government
 		holder = lord_of_ayrshire
 		liege = d_galloway
@@ -115,6 +125,7 @@ c_ayrshire = {
 
 c_annandale = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_annandale
 		liege = d_northumberland
 	}
@@ -122,6 +133,7 @@ c_annandale = {
 
 c_lennox = {
 	867.1.1 = {
+		change_development_level = 5
 		government = feudal_government
 		holder = lord_of_lennox
 		liege = d_galloway
@@ -130,6 +142,7 @@ c_lennox = {
 
 c_inner_hebrides = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_inner_hebrides
 		liege = k_scotland
 	}
@@ -137,6 +150,7 @@ c_inner_hebrides = {
 
 c_outer_hebrides = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_outer_hebrides
 		liege = k_scotland
 	}
@@ -144,6 +158,7 @@ c_outer_hebrides = {
 
 c_argyll = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_argyll
 		liege = k_scotland
 	}
@@ -151,6 +166,7 @@ c_argyll = {
 
 c_lothian = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_lothian
 		liege = d_northumberland
 	}
@@ -158,6 +174,7 @@ c_lothian = {
 
 c_dunbar = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_dunbar
 		liege = d_northumberland
 	}
@@ -165,6 +182,7 @@ c_dunbar = {
 
 c_teviotdale = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_teviotdale
 		liege = d_northumberland
 	}
@@ -172,6 +190,7 @@ c_teviotdale = {
 
 c_linlithgowshire = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_linlithgowshire
 		liege = k_scotland
 	}
@@ -179,6 +198,7 @@ c_linlithgowshire = {
 
 c_lanarkshire = {
 	867.1.1 = {
+		change_development_level = 5
 		government = feudal_government
 		holder = lord_of_lanarkshire
 		liege = d_northumberland
@@ -187,6 +207,7 @@ c_lanarkshire = {
 
 c_moray = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_moray
 		liege = k_scotland
 	}
@@ -194,6 +215,7 @@ c_moray = {
 
 c_ross = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_ross
 		liege = k_scotland
 	}
@@ -201,6 +223,7 @@ c_ross = {
 
 c_buchan = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_buchan
 		liege = k_scotland
 	}
@@ -208,6 +231,7 @@ c_buchan = {
 
 c_sutherland = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_sutherland
 		liege = k_scotland
 	}
@@ -215,6 +239,7 @@ c_sutherland = {
 
 c_caithness = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_caithness
 		liege = k_scotland
 	}
@@ -222,6 +247,7 @@ c_caithness = {
 
 c_inverness = {
 	867.1.1 = {
+		change_development_level = 5
 		holder = lord_of_inverness
 		liege = k_scotland
 	}
