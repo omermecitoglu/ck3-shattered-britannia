@@ -1,6 +1,7 @@
 1698 = {
 	religion = catholic
 	culture = pirates
+	holding = castle_holding
 }
 
 1677 = {
@@ -21,4 +22,65 @@
 1731 = {
 	religion = catholic
 	culture = scottish
+	holding = castle_holding
+}
+
+1724 = {
+	holding = castle_holding
+}
+
+1734 = {
+	holding = castle_holding
+}
+
+1741 = {
+	holding = castle_holding
+}
+
+1743 = {
+	holding = castle_holding
+}
+
+1720 = {
+	holding = castle_holding
+}
+
+1718 = {
+	holding = castle_holding
+}
+
+1712 = {
+	holding = castle_holding
+}
+
+1715 = {
+	holding = castle_holding
+}
+
+1709 = {
+	holding = castle_holding
+}
+
+1703 = {
+	holding = castle_holding
+}
+
+1705 = {
+	holding = castle_holding
+}
+
+1707 = {
+	holding = castle_holding
+}
+
+1689 = {
+	holding = castle_holding
+}
+
+1700 = {
+	holding = castle_holding
+}
+
+1692 = {
+	holding = castle_holding
 }

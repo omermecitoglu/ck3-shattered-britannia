@@ -1,6 +1,86 @@
-28 = {
+9 = {
 	867.1.1 = {
-		religion = insular_celtic
-		culture = irish
+		holding = castle_holding
 	}
 }
+
+15 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+18 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+20 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+24 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+28 = {
+	867.1.1 = { # Dublin
+		religion = insular_celtic
+		culture = irish
+		holding = castle_holding
+	}
+}
+
+34 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+37 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+43 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+45 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+46 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+49 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+52 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
+8745 = {
+	867.1.1 = {
+		holding = castle_holding
+	}
+}
+
