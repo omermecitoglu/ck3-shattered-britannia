@@ -84,3 +84,27 @@
 1692 = {
 	holding = castle_holding
 }
+
+6 = {
+	867.1.1 = {
+		religion = insular_celtic
+		culture = pirates
+		holding = castle_holding
+	}
+}
+
+7 = {
+	867.1.1 = {
+		religion = insular_celtic
+		culture = pirates
+		holding = castle_holding
+	}
+}
+
+8 = {
+	867.1.1 = {
+		religion = insular_celtic
+		culture = pirates
+		holding = castle_holding
+	}
+}

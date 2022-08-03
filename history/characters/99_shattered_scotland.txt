@@ -335,3 +335,42 @@ lord_of_inverness = {
 		death = yes
 	}
 }
+
+lord_of_orkney = {
+	name = "Eanfrith"
+	religion = insular_celtic
+	culture = pirates
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_shetland = {
+	name = "UhtrE_d"
+	religion = insular_celtic
+	culture = pirates
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}
+
+lord_of_faereyar = {
+	name = "E_thelfrith"
+	religion = insular_celtic
+	culture = pirates
+
+	847.1.1 = {
+		birth = yes
+	}
+	868.1.1 = {
+		death = yes
+	}
+}

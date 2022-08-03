@@ -5,6 +5,13 @@ k_scotland = {
 	}
 }
 
+d_northern_isles = {
+	867.1.1 = {
+		de_jure_liege = k_scotland
+		holder = 0
+	}
+}
+
 d_albany = {
 	867.1.1 = {
 		holder = 0
@@ -38,6 +45,33 @@ d_lothian = {
 d_moray = {
 	867.1.1 = {
 		holder = 0
+	}
+}
+
+c_orkney = {
+	867.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = lord_of_orkney
+		liege = k_scotland
+	}
+}
+
+c_shetland = {
+	867.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = lord_of_shetland
+		liege = k_scotland
+	}
+}
+
+c_faereyar = {
+	867.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = lord_of_faereyar
+		liege = k_scotland
 	}
 }
 
